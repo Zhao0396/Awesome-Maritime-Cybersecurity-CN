@@ -1,2 +1,14 @@
-# Awesome-Maritime-Cybersecurity-CN
-🚢 船舶海事网络安全资源汇总 | 聚焦 IACS UR E26/E27 标准落地、MaCySTe 实验手册中文翻译及船舶工控(OT)安全实战。A curated list of maritime cybersecurity resources focusing on IACS standards and testbed research.
+## 📖 项目简介
+本项目致力于打造国内最全面的船舶海事网络安全学习路径，内容涵盖国际最新合规标准、虚拟化仿真实验以及日志分析实战。
+
+## 🛠️ 核心板块
+标准解读：IACS UR E26（船舶网络韧性）与 UR E27（设备网络韧性）深度拆解。
+
+实验平台：基于 MaCySTe 仿真环境的中文操作手册与排障指南。
+
+流量分析：利用 OpenSearch 进行船舶关键系统流量监控与日志审计案例。
+
+学习笔记：个人在 Obsidian 中整理的海事安全知识库（逐步公开）。
+
+## 📬 联系方式
+微信：ndo00oo00obn
